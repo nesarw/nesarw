@@ -4,15 +4,12 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Web+%26+App+Developer;UI%2FUX+Enthusiast" alt="Typing SVG" />
 </div>
 
+# 🚀 About Me
 
-
-## 🚀 About Me
-
-I'm a passionate Computer Engineering student with a keen interest in web development, mobile applications, and UI/UX design. I love creating elegant solutions to complex problems and am always eager to learn new technologies.
-
-
-
-
+<p>
+  I'm <strong>Nesar Wagannawar</strong> — a passionate tech creator with a strong focus on web development, mobile applications, and UI/UX design. I love crafting elegant solutions, building clean interfaces, and turning ideas into impactful digital experiences.
+</p>
+<br>
 
 ## 💻 Tech Stack
 
@@ -33,10 +30,7 @@ I'm a passionate Computer Engineering student with a keen interest in web develo
 
 
 </div>
-
-
-
-
+<br>
 
 ## 📊 GitHub Stats
 
@@ -44,10 +38,7 @@ I'm a passionate Computer Engineering student with a keen interest in web develo
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nesarw&theme=radical" alt="GitHub Streak" /> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nesarw&layout=compact&theme=radical" alt="Top Languages" />
 </div>
-
-
-
-
+<br>
 
 ## 📫 Connect With Me
 
