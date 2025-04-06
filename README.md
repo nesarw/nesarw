@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Nesar Wagannawar
+# 👋 Hi there,
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Web+%26+App+Developer;UI%2FUX+Enthusiast" alt="Typing SVG" />
