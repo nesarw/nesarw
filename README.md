@@ -1,7 +1,8 @@
 # 👋 Hi there,
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Web+%26+App+Developer;UI%2FUX+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=100&color=2196F3&center=true&vCenter=true&width=535&lines=Web+Developer;App+Developer;UI%2FUX+Enthusiast;&size=40" alt="Typing SVG" />
 </div><br>
+
 
 <p>
   I'm <strong>Nesar Wagannawar</strong> — a passionate tech creator with a strong focus on web development, mobile applications, and UI/UX design. I love crafting elegant solutions, building clean interfaces, and turning ideas into impactful digital experiences.
