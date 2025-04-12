@@ -5,7 +5,7 @@
 
 
 <p>
-  I'm <strong>Nesar Wagannawar</strong> — a passionate tech creator with a strong focus on web development, mobile applications, and UI/UX design. I love crafting elegant solutions, building clean interfaces, and turning ideas into impactful digital experiences.
+  I'm <strong>Nesar Wagannawar</strong> — a tech creator with a strong focus on web development, mobile applications, and UI/UX design. I love crafting elegant solutions, building clean interfaces, and turning ideas into impactful digital experiences.
 </p>
 <br>
 
