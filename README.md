@@ -34,7 +34,7 @@
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nesarw&theme=radical" alt="GitHub Streak" /> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nesarw&layout=compact&theme=radical" alt="Top Languages" />
+  <!--  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nesarw&layout=compact&theme=radical" alt="Top Languages" /> -->
 </div>
 <br>
 
