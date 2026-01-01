@@ -1,11 +1,11 @@
 # 👋 Hi there,
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=100&color=2196F3&center=true&vCenter=true&width=535&lines=App%2FWeb+Developer;Data+ScientistlUI%2FUX+Enthusiast;&size=45" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=100&color=2196F3&center=true&vCenter=true&width=535&lines=App%2FWeb+Developer;Data+Scientist;UI%2FUX+Enthusiast;&size=45" alt="Typing SVG" />
 </div><br>
 
 
 <p>
-  I'm <strong>Nesar Wagannawar</strong> — a tech creator with a strong focus on web development, mobile applications, and UI/UX design. I love crafting elegant solutions, building clean interfaces, and turning ideas into impactful digital experiences.
+  I'm <strong>Nesar Wagannawar</strong> — a tech creator with a strong focus on web & mobile applications development, Data Scientist , and UI/UX design. I love crafting elegant solutions, building clean interfaces, and turning ideas into impactful digital experiences.
 </p>
 <br>
 
